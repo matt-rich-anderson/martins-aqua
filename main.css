@@ -1,0 +1,40 @@
+header {
+    border: 1px solid black;
+    text-align: center;}
+
+nav {
+    border: 1px solid black;
+}
+
+.aquarium {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+
+}
+
+.aquarium__articles {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px
+}
+
+.aquarium__tips {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px
+}
+
+.fish__flex {
+    display: flex;
+}
+
+.fish {
+    margin: 10px;
+}
+
+.fish__pic {
+    width: 200px;
+    height: 200px;
+    object-fit: cover
+}
